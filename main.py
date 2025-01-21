@@ -1,2 +1,4 @@
-def greet():
-    print("Hello Jackson!")
+from people.peyton import greet
+
+print("Hello World!")
+greet()
